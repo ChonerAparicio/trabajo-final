@@ -1,0 +1,11 @@
+Entrar http://localhost/backend/trabajo-final/index.php
+arriba encontraras el boton de "Administrar Productos"
+al entrar al login:
+	Usuario: admin
+	Contraseña: admin123
+
+al entrar a admin.php tienes la posibilidad de modificar y actualizar los cambios o eliminar, en la parte de abajo
+puedes agregar nuevo producto, luego cerrar sesion, te enviará al login.php y clickear en "Regresar" que te enviara al index.php
+En la carpeta recursos esta el archivo "EP_Proximamente" 
+(es un diseño de un disco que aun no termino de diseñarlo, 
+pero tienes suerte de ver un adelanto del trabajo ;) jaja) para que puedas agregar como nuevo producto y luego eliminarlo
